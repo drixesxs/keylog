@@ -1,7 +1,7 @@
 import pynput
 from pynput.keyboard import Key, Listener
 
-count = 1
+count = 0
 keys = []
 
 def on_press(key):
